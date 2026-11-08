@@ -8,7 +8,7 @@
 |---|---|---|
 | [C](https://github.com/ss66725/C) | C 语言 | 基础语法：字符、数组、指针、函数、递归、汉诺塔 |
 | [Python](https://github.com/ss66725/Python) | Python | 基础语法、类与字典、暑期练习、爬虫入门、词云 |
-| [Adurino](https://github.com/ss66725/Adurino) | Arduino | 按钮与 LED、温度报警器、RFID 读卡 |
+| [Arduino](https://github.com/ss66725/Arduino) | Arduino | 按钮与 LED、温度报警器、RFID 读卡 |
 
 ## 学习方法
 
