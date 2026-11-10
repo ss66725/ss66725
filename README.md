@@ -12,6 +12,17 @@
 | [Python](https://github.com/ss66725/Python) | Python | 基础语法、类与字典、暑期练习、爬虫入门、词云 |
 | [Arduino](https://github.com/ss66725/Arduino) | Arduino | 按钮与 LED、温度报警器、RFID 读卡 |
 | [dsh_plugs](https://github.com/ss66725/dsh_plugs) | JavaScript | DeepSeek Harness 插件：学习仓库整理、Office 文件归档 |
+| [claude_plugs](https://github.com/ss66725/claude_plugs) | Python | Claude Code 插件：同一套工具迁移到 Claude |
+
+<!-- profile-auto:start -->
+最近一次更新：**2026-11-10**
+
+| 仓库 | 最近更新 | 日期文件夹 | 程序 | 其中可自动测试 |
+|---|---|---|---|---|
+| [C](https://github.com/ss66725/C) | 2026-11-10 | 7 | 43 | 36 |
+| [Python](https://github.com/ss66725/Python) | 2026-11-08 | 4 | 18 | 9 |
+| [Arduino](https://github.com/ss66725/Arduino) | 2026-11-08 | 4 | 4 | — |
+<!-- profile-auto:end -->
 
 ## 学习方法
 
